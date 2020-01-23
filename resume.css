@@ -20,3 +20,22 @@
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 }
+
+h1 {
+  font-family: "Bebas Neue", cursive;
+  font-weight: 30;
+  font-stretch: semi-expanded;
+  text-align: center;
+}
+
+.name {
+  font-family: "Bebas Neue", cursive;
+}
+
+.list {
+  font-family: "PT Sans", sans-serif;
+}
+
+.headers {
+  font-family: "Bebas Neue", cursive;
+}
